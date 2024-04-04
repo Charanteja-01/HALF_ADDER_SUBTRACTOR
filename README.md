@@ -67,6 +67,7 @@ endmodule
 ```
 
 **RTL Schematic**
+
 ![319438365-943546c7-7be6-4bb5-9f94-bd59ae052ceb](https://github.com/Charanteja-01/HALF_ADDER_SUBTRACTOR/assets/145693038/cb9ebf7e-1ff0-4dba-8469-8ea472b988a6)
 
 **Output/TIMING Waveform**
